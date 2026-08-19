@@ -6,8 +6,11 @@
 •run as Linux
  
 ```sudo git clone https://github.com/Daniall1380/ddos_attack.git```
+
 ```cd ddos_attack```
+
 ```sudo child +x ddos.py```
+
 ```python DDoS.py```
 
 •run as termux
