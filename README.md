@@ -9,7 +9,7 @@
 
 ```cd ddos_attack```
 
-```sudo child +x ddos.py```
+```sudo chmod +x ddos.py```
 
 ```python DDoS.py```
 
