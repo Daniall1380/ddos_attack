@@ -5,13 +5,13 @@
 
 •run as Linux
  
-```sudo git clone https://github.com/Daniall1380/ddos_attack.git```
+```sudo git clone https://github.com/Daniall1380/ddos_attack.git
 
-```cd ddos_attack```
+cd ddos_attack
 
-```sudo child +x ddos.py```
+sudo child +x ddos.py
 
-```python DDoS.py```
+python DDoS.py```
 
 •run as termux
 
