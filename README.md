@@ -19,7 +19,7 @@
 
 ```cd ddos_attack```
 
-```child +x ddos.py```
+```chmod +x ddos.py```
 
 ```python DDoS.py```
 
