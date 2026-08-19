@@ -3,17 +3,19 @@
         made by dnn
 ====================================================
 
-•run as Linux 
-sudo git clone https://github.com/Daniall1380/ddos_attack.git
+•run as Linux
+ 
+```sudo git clone https://github.com/Daniall1380/ddos_attack.git
 cd ddos_attack
 sudo child +x ddos.py
-python DDoS.py
+python DDoS.py```
 
-•run as termik
-git clone https://github.com/Daniall1380/ddos_attack.git
+•run as termux
+
+```git clone https://github.com/Daniall1380/ddos_attack.git
 cd ddos_attack
 child +x ddos.py
-python DDoS.py
+python DDoS.py```
 
 [ DESCRIPTION ]
 DDoSH is a multi-vector network stress testing tool
