@@ -2,7 +2,7 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
 ║             DDoSH - Tool v3.1                                ║
-║             created by BH                                    ║
+║             created by BHH                                    ║
 ╚══════════════════════════════════════════════════════════════╝
 
 Usage: python ddos.py [host] [port] [threads] [mode] [duration]
@@ -260,7 +260,7 @@ def show_banner():
     b.append("  ║    ██████╔╝██████╔╝╚██████╔╝███████║   ║")
     b.append("  ║    ╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝   ║")
     b.append("  ║                                        ║")
-    b.append("  ║       created by BH                    ║")
+    b.append("  ║       created by BHH                    ║")
     b.append("  ╚════════════════════════════════════════╝")
     b.append("\033[0m")
     print("\n".join(b))
