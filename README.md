@@ -1,6 +1,6 @@
 ====================================================
         DDoS - tool v3.1
-        made by dnn
+        made by BHH
 ====================================================
 
 •run as Linux
@@ -121,5 +121,5 @@ While running, you will see live stats:
 Press Ctrl+C at any time to stop the attack.
 Stats will be displayed after stopping.
 
-made by BH
+made by BHH
 ====================================================
